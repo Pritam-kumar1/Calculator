@@ -6,7 +6,7 @@ The server runs on port 3000.
 You can also calculate your BMI by just Heading localhost:3000/bmicalculator.
 
 
-Tech used: HTML,node.js,javascript
+Tech used: HTML, node.js, javascript
 
 
 npm packages used: express,body-parser
